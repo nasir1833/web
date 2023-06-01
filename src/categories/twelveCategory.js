@@ -1,0 +1,15 @@
+export const twelvethCategory = [
+  { name: "homeostasis", link: "/12th/homeostasis" },
+  { name: "support and movements", link: "/12th/supportAndMovements" },
+  { name: "coordination and control", link: "/12th/coordinationAndControl" },
+  { name: "reproduction", link: "/12th/reproduction" },
+  { name: "growth and development", link: "/12th/growthAndDevelopment" },
+  { name: "chromosomes and DNA", link: "/12th/chromosomesAndDNA" },
+  { name: "cell cycle", link: "/12th/cellCycle" },
+  { name: "variation and genetics", link: "/12th/variationAndGenetics" },
+  { name: "biotechnology", link: "/12th/biotechnology" },
+  { name: "evolution", link: "/12th/evolution" },
+  { name: "ecosystem", link: "/12th/ecosystem" },
+  { name: "some major ecosystem", link: "/12th/someMajorEcosystem" },
+  { name: "man and his environment", link: "/12th/manAndHisEnvironment" },
+];

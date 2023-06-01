@@ -1,0 +1,25 @@
+.home__top {
+  display: flex;
+  flex-wrap: wrap;
+  /* place-items: center; */
+  width: 100%;
+}
+.home__top>div{
+  /* place-items: center; */
+  width: 50%;
+}
+.home__links {
+  text-decoration: none;
+  color: #2B3467;
+}
+.home__links:hover {
+  color: #a2bdce;
+}
+
+@media only screen and (max-width: 620px) {
+  .home__top>div{
+    /* place-items: center; */
+    width: 100%;
+    padding: 0;
+  }
+}

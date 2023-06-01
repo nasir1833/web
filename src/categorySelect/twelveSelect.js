@@ -1,0 +1,15 @@
+export const twelvethSelect = [
+    {name: "homeostasis", value: "homeostasis12" },
+    {name: "support and movements", value: "supportAndMovements12" },
+    {name:"coordination and control",value:"coordinationAndControl12"},
+    {name:"reproduction",value:"reproduction12"},
+    {name:"growth and development",value:"growthAndDevelopment"},
+    {name:"chromosomes and DNA",value:"chromosomesAndDNA"},
+    {name:"cell cycle",value:"cellCycle12"},
+    {name:"variation and genetics",value:"variationAndGenetics"},
+    {name:"biotechnology",value:"biotechnology12"},
+    {name:"evolution",value:"evolution"},
+    {name:"ecosystem",value:"ecosystem"},
+    {name:"some major ecosystem",value:"someMajorEcosystem"},
+    {name:"man and his environment",value:"manAndHisEnvironment12"},
+    ]

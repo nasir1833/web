@@ -1,0 +1,16 @@
+export const eleventhCategory = [
+    {name: "introduction", link:"/11th/introduction" },
+    {name: "biological molecules", link:"/11th/biologicalMolecules" },
+    {name:"enzymes",link:"/11th/enzymes"},
+    {name:"The cell",link:"/11th/theCell"},
+    {name:"variety of life",link:"/11th/varietyOfLife"},
+    {name:"kingdom prokaryote (Monera)",link:"/11th/kingdomProkaryote"},
+    {name:"the kingdom protista(or Protoctista)",link:"/11th/theKingdomProtista"},
+    {name:"fungi the kingdom of recyclers",link:"/11th/fungi"},
+    {name:"kingdom plantae",link:"/11th/kingdomPlantae"},
+    {name:"kingdom animalia",link:"/11th/kingdomAnimalia"},
+    {name:"bioenergetics",link:"/11th/bioenergetics"},
+    {name:"nutrition",link:"/11th/nutrition"},
+    {name:"gaseous exchange",link:"/11th/gaseousExchange"},
+    {name:"transport",link:"/11th/transport"},
+    ]

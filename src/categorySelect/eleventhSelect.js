@@ -1,0 +1,16 @@
+export const eleventhSelect = [
+    {name: "introduction", value: "introduction" },
+    {name: "biological molecules", value: "biologicalMolecules" },
+    {name:"enzymes",value:"enzymes11"},
+    {name:"The cell",value:"theCell"},
+    {name:"variety of life",value:"varietyOfLife"},
+    {name:"kingdom prokaryote (Monera)",value:"kingdomProkaryote"},
+    {name:"the kingdom protista(or Protoctista)",value:"theKingdomProtista"},
+    {name:"fungi the kingdom of recyclers",value:"fungiTheKingdomOfRecyclers"},
+    {name:"kingdom plantae",value:"kingdomPlantae"},
+    {name:"kingdom animalia",value:"kingdomAnimalia"},
+    {name:"bioenergetics",value:"bioenergetics11"},
+    {name:"nutrition",value:"nutrition11"},
+    {name:"gaseous exchange",value:"gaseousExchange11"},
+    {name:"transport",value:"transport11"},
+    ]

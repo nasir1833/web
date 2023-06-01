@@ -1,0 +1,28 @@
+.submit__mcq input[name="question"]{
+    width: 100%;
+}
+.submit__mcq input{
+    margin: 0.5rem 0;
+}
+.submit__mcq div>input[type="text"]{
+    width: 50%;
+}
+.submit__mcq div>input[type="checkbox"]{
+    margin-right: 5px;
+}
+.submit__mcq>div{
+    display: flex;
+}
+.send__data{
+    margin-left: 2rem;
+}
+@media only screen and (max-width: 600px) {
+    .submit__mcq{
+        display:flex ;
+        flex-direction: column;
+        margin: 0.2rem;
+    }
+    .submit__mcq div>input[type="text"]{
+        width: 100%;
+    }
+  }

@@ -1,0 +1,7 @@
+.li__links {
+    text-decoration: none;
+    color: #2B3467;
+  }
+  .li__links:hover {
+    color: #a2bdce;
+  }
